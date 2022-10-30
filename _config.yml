@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nianzu Yang's website"
+title                    : "Nianzu Yang's Website"
 title_separator          : "-"
 name                     : &name "Nianzu Yang"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nianzu Yang (杨念祖)"
-  avatar           : "profile.jpeg"
+  avatar           : "my_photo.jpeg"
   bio              : "Always keep self-discipline!"
   location         : 
   employer         :
