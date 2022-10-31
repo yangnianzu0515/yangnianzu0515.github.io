@@ -8,9 +8,9 @@ venue: 'NeurIPS 2022'
 preprint:
 authors: "<b>Nianzu Yang</b>, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, Junchi Yan"
 paperurl: 'http://yangnianzu0515.github.io/files/paper4-moleood.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
-poster: /file/paper1-learned_index.pdf
-slides: /file/paper1-learned_index.pdf
+citation: # 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+poster: 
+slides: 
 code: 
 ---
 In this paper, we propose 
