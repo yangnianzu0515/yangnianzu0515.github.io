@@ -23,23 +23,22 @@ Research Interests
 * Graph Neural Networks
 
 
-Intership
+Internship
 ======
-* Dynamic Multi-graph Embedding for Recommendation | Meituan, Beijing
+* Dynamic Multi-graph Embedding for Recommendation 
+  * Meituan
   * April 2021 - August 2021
   * Honored with **2020-2021 Best Research Collaboration Award**
 
 Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2019 - July 2020: Research Assistant
+  * Advanced Netork Lab, SJTU
+  * Supervisor: [Prof. Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2020 - Now: Research Assistant
+  * ThinkLab, SJTU
+  * Supervisor: [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/)
   
 
 
