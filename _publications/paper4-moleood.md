@@ -9,8 +9,8 @@ preprint:
 authors: '<b>Nianzu Yang</b>, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, Junchi Yan'
 paperurl: 'http://yangnianzu0515.github.io/files/paper4-moleood.pdf'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-poster: "http://yangnianzu0515.github.io/poster/paper2-poster-self-modulating_attention.pdf"
-slides: "http://yangnianzu0515.github.io/slides/paper2-slides-self-modulating_attention.pdf"
+poster: "http://yangnianzu0515.github.io/poster/paper4-poster-moleood.pdf"
+slides: "http://yangnianzu0515.github.io/slides/paper4-slides-moleood.pdf"
 code: "https://github.com/yangnianzu0515/MoleOOD"
 ---
 We have proposed a general framework entitled **MoleOOD** which can incorporate any existing molecular representation learning method as backbone to improve their generalization ability against distribution shifts.
