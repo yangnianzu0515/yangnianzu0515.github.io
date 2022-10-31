@@ -36,8 +36,8 @@ Research Experience
   * Advanced Network Lab, SJTU
   * Supervisor: [Prof. Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/)
 
-* 🌟🌟 August 2020 - Now: Research Assistant
-  * ThinkLab, SJTU
+* 🌟 August 2020 - Now: Research Assistant
+  * 💞️ ThinkLab, SJTU
   * Supervisor: [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/)
   
 
