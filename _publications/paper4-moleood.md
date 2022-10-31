@@ -1,12 +1,12 @@
 ---
-title: "Learning Self-Modulating Attention in Continuous Time Space with Applications to Sequential Recommendation"
+title: "Learning Substructure Invariance for Out-of-Distribution Molecular Representations"
 collection: publications
 permalink: /publication/paper4-moleood
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2009-10-01
-venue: 'ICML 2021'
+venue: 'NeurIPS 2022'
 preprint:
-authors: 'Chao Chen, Haoyu Geng, <b>Nianzu Yang</b>, Junchi Yan, Daiyue Xue, Jianping Yu, Xiaokang Yang'
+authors: '<b>Nianzu Yang</b>, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, Junchi Yan'
 paperurl: 'http://yangnianzu0515.github.io/files/paper4-moleood.pdf'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 poster: "http://yangnianzu0515.github.io/poster/paper2-poster-self-modulating_attention.pdf"
