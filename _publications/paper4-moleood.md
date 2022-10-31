@@ -19,5 +19,5 @@ We have proposed a general framework entitled **MoleOOD** which can incorporate 
 
 [PDF](http://yangnianzu0515.github.io/files/paper4-moleood.pdf)
 [Poster](http://yangnianzu0515.github.io/poster/paper4-moleood.pdf)
-[Slides](http://yangnianzu0515.github.io/slides/paper2-slides-self-modulating_attention.pdf)
+[Slides](http://yangnianzu0515.github.io/slides/paper4-moleood.pdf)
 [Code](https://github.com/yangnianzu0515/MoleOOD)
