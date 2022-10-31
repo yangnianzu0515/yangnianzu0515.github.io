@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 👋 Hi, I’m Nianzu Yang!
 
 I'm a Ph.D student @SJTU-ThinkLab, supervised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/).
