@@ -28,4 +28,4 @@ I am pursuing my PhD degree at Department of Computer Science in School of Elect
 
 What's New
 ======
-1. 🌟 One paper on Molecular representation learning is accepted by NeurIPS 2022!
+1. One paper on Molecular representation learning is accepted by NeurIPS 2022!

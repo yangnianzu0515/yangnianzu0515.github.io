@@ -22,6 +22,13 @@ Research Interests
 * AI-aided Drug Discovery
 * Graph Neural Networks
 
+
+Intership
+======
+* Dynamic Multi-graph Embedding for Recommendation | Meituan, Beijing
+  * April 2021 - August 2021
+  * Honored with **2020-2021 Best Research Collaboration Award**
+
 Research Experience
 ======
 * Summer 2015: Research Assistant
@@ -34,24 +41,27 @@ Research Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+
+
+Publications
+======
+  <ul>{% for post in site.publications reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 <!-- Talks
 ======
-  <ul>{% for post in site.talks reversed%}
+  <ul>{% for post in site.talks%}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
