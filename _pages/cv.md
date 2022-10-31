@@ -33,7 +33,7 @@ Internship
 Research Experience
 ======
 * April 2019 - July 2020: Research Assistant
-  * Advanced Netork Lab, SJTU
+  * Advanced Network Lab, SJTU
   * Supervisor: [Prof. Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/)
 
 * August 2020 - Now: Research Assistant
