@@ -11,11 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science & Technology, IEEE Honor Class, Shanghai Jiao Tong University, 2017-2021
+* Ph.D in Computer Science & Technology, Shanghai Jiao Tong University, 2021-2026 (expected)
 
-Work experience
+
+Research Interests
+======
+* Generative Models
+* Out-of-Distribution Generalization
+* AI-aided Drug Discovery
+* Graph Neural Networks
+
+Research Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -42,9 +49,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed%}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -56,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
