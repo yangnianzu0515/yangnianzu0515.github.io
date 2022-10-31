@@ -1,7 +1,7 @@
 ---
 title: "Learning Self-Modulating Attention in Continuous Time Space with Applications to Sequential Recommendation"
 collection: publications
-permalink: /publication/paper2-self-modulating_attention
+permalink: /publication/paper4-moleood
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2009-10-01
 venue: 'ICML 2021'
@@ -15,9 +15,9 @@ code: "https://github.com/cchao0116/SMACTREC-ICML21"
 ---
 In this paper, we propose a novel **self-modulating attention** and apply it to sequential recommendation.
 
-**Abstract:** User interests are usually dynamic in the real world, which poses both theoretical and practical challenges for learning accurate preferences from rich behavior data. Among existing user behavior modeling solutions, attention networks are widely adopted for its effectiveness and relative simplicity. Despite being extensively studied, existing attentions still suffer from two limitations: i) conventional attentions mainly take into account the spatial correlation between user behaviors, regardless the distance between those behaviors in the continuous time space; and ii) these attentions mostly provide a dense and undistinguished distribution over all past behaviors then attentively encode them into the output latent representations. This is however not suitable in practical scenarios where a user’s future actions are relevant to a small subset of her/his historical behaviors. In this paper, we propose a novel attention network, named *self-modulating attention*, that models the complex and non-linearly evolving dynamic user preferences. We empirically demonstrate the effectiveness of our method on top-N sequential recommendation tasks, and the results on three largescale real-world datasets show that our model can achieve state-of-the-art performance.
+**Abstract:** Molecule representation learning (MRL) has been extensively studied and current methods have shown promising power for various tasks, e.g., molecular property prediction and target  identification. However, a common hypothesis of existing methods is that either the model development or experimental evaluation is mostly based on i.i.d. data across training and testing. Such a hypothesis can be violated in real-world applications where testing molecules could come from new environments, bringing about serious performance degradation or unexpected prediction. We propose a new representation learning framework entitled MoleOOD to enhance the robustness of MRL models against such distribution shifts, motivated by an observation that the (bio)chemical properties of molecules are usually invariantly associated with certain privileged molecular substructures across different environments (e.g., scaffolds, sizes, etc.). Specifically, We introduce an environment inference model to identify the latent factors that impact data generation from different distributions in a fully data-driven manner. We also propose a new learning objective to guide the molecule encoder to leverage environment-invariant substructures that more stably relate with the labels across environments. Extensive experiments on ten real-world datasets demonstrate that our model has a stronger generalization ability than existing methods under various out-of-distribution (OOD) settings, despite the absence of manual specifications of environments. Particularly, our method achieves up to 5.9\% and 3.9\% improvement over the strongest baselines on OGB and DrugOOD benchmarks in terms of ROC-AUC, respectively. Our source code is publicly available at [https://github.com/yangnianzu0515/MoleOOD](https://github.com/yangnianzu0515/MoleOOD).
 
-[PDF](http://yangnianzu0515.github.io/files/paper2-self-modulating_attention.pdf)
+[PDF](http://yangnianzu0515.github.io/files/paper4-moleood.pdf)
 [Poster](http://yangnianzu0515.github.io/poster/paper2-poster-self-modulating_attention.pdf)
 [Slides](http://yangnianzu0515.github.io/slides/paper2-slides-self-modulating_attention.pdf)
 [Code](https://github.com/cchao0116/SMACTREC-ICML21)
