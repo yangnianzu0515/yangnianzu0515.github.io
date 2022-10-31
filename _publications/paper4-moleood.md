@@ -5,6 +5,8 @@ permalink: /publication/paper4-moleood
 excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
 date: #2015-10-01
 venue: 'NeurIPS 2022'
+preprint:
+authors: "<b>Nianzu Yang</b>, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, Junchi Yan"
 paperurl: 'http://yangnianzu0515.github.io/files/paper4-moleood.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 poster: /file/paper1-learned_index.pdf
