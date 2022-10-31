@@ -50,13 +50,13 @@
 
 
         {% if post.paperpdf %}
-          <p><a href="{{ post.paperpdf }}">[PDF]</a></p>
+          <p><a href="{{ post.paperpdf }}">[PDF]</a> {% if post.slides %}<a href="{{ post.slides }}">[Slides]</a>{% endif %}{% if post.slides %}<a href="{{ post.slides }}">[Slides]</a>{% endif %}</p>
         {% endif %}
 
         {% if post.slides %}
           <p><a href="{{ post.slides }}">[Slides]</a></p>
         {% endif %}
-        
+
         {% if post.slides %}
           <p><a href="{{ post.slides }}">[Slides]</a></p>
         {% endif %}
