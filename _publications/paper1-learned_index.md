@@ -7,9 +7,8 @@ permalink: /publication/paper1-learned_index
 preprint:
 venue: 'Journal of Software'
 authors: 'Yuanning Gao, Jinbiao Ye, <b>Nianzu Yang</b>, Xiaofeng Gao, Guihai Chen'
-paperurl: 'http://yangnianzu0515.github.io/files/paper1.pdf'
+paperurl: 'http://yangnianzu0515.github.io/files/paper1-learned_index.pdf'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-paperpdf: /file/paper1-learned_index.pdf
 poster: 
 slides: 
 code: 
