@@ -13,7 +13,7 @@ poster:
 slides: 
 code: 
 ---
-**Authors:** Yuanning Gao, Jinbiao Ye, **Nianzu Yang**, Xiaofeng Gao, Guihai Chen
+Authors: Yuanning Gao, Jinbiao Ye, **Nianzu Yang**, Xiaofeng Gao, Guihai Chen
 
 This paper is about learned index.
 

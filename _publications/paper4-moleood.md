@@ -13,7 +13,7 @@ poster: "http://yangnianzu0515.github.io/poster/paper4-poster-moleood.pdf"
 slides: "http://yangnianzu0515.github.io/slides/paper4-slides-moleood.pdf"
 code: "https://github.com/yangnianzu0515/MoleOOD"
 ---
-**Authors:** **Nianzu Yang**, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, Junchi Yan
+Authors: **Nianzu Yang**, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, Junchi Yan
 
 We have proposed a general framework entitled **MoleOOD** which can incorporate any existing molecular representation learning method as backbone to improve their generalization ability against distribution shifts.
 

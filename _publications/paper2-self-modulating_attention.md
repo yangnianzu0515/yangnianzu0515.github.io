@@ -13,7 +13,7 @@ poster: "http://yangnianzu0515.github.io/poster/paper2-poster-self-modulating_at
 slides: "http://yangnianzu0515.github.io/slides/paper2-slides-self-modulating_attention.pdf"
 code: "https://github.com/cchao0116/SMACTREC-ICML21"
 ---
-**Authors:** Chao Chen, Haoyu Geng, **Nianzu Yang**, Junchi Yan, Daiyue Xue, Jianping Yu, Xiaokang Yang
+Authors: Chao Chen, Haoyu Geng, **Nianzu Yang**, Junchi Yan, Daiyue Xue, Jianping Yu, Xiaokang Yang
 
 In this paper, we propose a novel **self-modulating attention** and apply it to sequential recommendation.
 

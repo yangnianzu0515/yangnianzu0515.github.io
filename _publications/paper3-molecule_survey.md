@@ -13,7 +13,7 @@ poster:
 slides: 
 code: 
 ---
-**Authors:** **Nianzu Yang\***, Huaijin Wu*, Junchi Yan, Xiaoyong Pan, Ye Yuan, Le Song
+Authors: **Nianzu Yang\***, Huaijin Wu*, Junchi Yan, Xiaoyong Pan, Ye Yuan, Le Song
 
 This paper is a survey on molecule generation from a graph learning perspective.
 
