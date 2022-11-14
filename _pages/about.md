@@ -27,4 +27,5 @@ I am pursuing my PhD degree at Department of Computer Science in School of Elect
 
 What's New
 ======
-1. 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
+- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
+- 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
