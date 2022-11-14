@@ -30,6 +30,11 @@ Internship
   * April 2021 - August 2021
   * Honored with **2020-2021 Best Research Collaboration Award**
 
+* Drug AI
+  * Tencent AI Lab
+  * Research Intern
+  * Co-supervised by Dr. [Jiaxiang Wu](https://scholar.google.com/citations?user=puazh38AAAAJ&hl=en&oi=ao) and Dr. [Yatao Bian](https://yataobian.com/).
+
 Research Experience
 ======
 * April 2019 - July 2020: Research Assistant
