@@ -30,4 +30,18 @@ What's New
 <div style="height:300px;overflow-y:auto;background:#EEEEEE;">
 - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
 - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
+- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
+- 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
+- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
+- 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
+- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
+- 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
+- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
+- 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
+- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
+- 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
+- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
+- 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
+- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
+- 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
 </div>
