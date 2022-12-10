@@ -27,7 +27,7 @@ I am pursuing my PhD degree at Department of Computer Science in School of Elect
 
 What's New
 ======
-<div style="height:10px;width:70px;overflow:auto;background:#EEEEEE;">
+<div style="height:200px;width:100%;overflow:auto;background:#EEEEEE;">
 - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
 - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
 </div>
