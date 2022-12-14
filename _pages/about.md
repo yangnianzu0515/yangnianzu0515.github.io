@@ -37,66 +37,6 @@ Experience
       <div class="direction-l">
       
         <div class="flag-wrapper">
-          <span class="flag">Stanford</span>
-          <span class="time-wrapper"><span class="time">2020 - now</span></span>
-        </div>
-        <div class="desc"><b>Postdoc</b> <br/> MS&E</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-r">
-      
-        <div class="flag-wrapper">
-          <span class="flag">MIT</span>
-          <span class="time-wrapper"><span class="time">2014 - 2020</span></span>
-        </div>
-        <div class="desc"><b>Ph.D. Student</b> <br/> Media Lab, Laboratory for Social Machines</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Facebook</span>
-          <span class="time-wrapper"><span class="time">Summer 2019</span></span>
-        </div>
-        <div class="desc"><b>Research Scientist, Intern</b> <br/> Core Data Science</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">LinkedIn</span>
-          <span class="time-wrapper"><span class="time">Summer 2016</span></span>
-        </div>
-        <div class="desc"><b>Research Scientist, Intern</b> <br/> Experimentation Group</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Amazon</span>
-          <span class="time-wrapper"><span class="time">Summer 2014</span></span>
-        </div>
-        <div class="desc"><b>Machine Learning Scientist, Intern</b> <br/> Scalable Machine Learning Group</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
           <span class="flag">Yahoo! Labs</span>
           <span class="time-wrapper"><span class="time">Feb-Aug 2013</span></span>
         </div>
