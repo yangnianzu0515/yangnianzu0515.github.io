@@ -49,10 +49,10 @@ Experience
       <div class="direction-r">
       
         <div class="flag-wrapper">
-          <span class="flag">EM-DMKM</span>
-          <span class="time-wrapper"><span class="time">Sep 2011 – Aug 2013</span></span>
+          <span class="flag">Shanghai Jiao Tong University</span>
+          <span class="time-wrapper"><span class="time">2021.09 – 2026.06(expected)</span></span>
         </div>
-        <div class="desc"><b>M.Sc. Student</b> <br/> Masters in Data Mining and Knowledge Management <br/> Year 1: University Pierre et Marie Curie <br/> Year 2: Universitat Politecnica de Catalunya <br/></div>
+        <div class="desc"><b>PhD candidate @ThinkLab</b></div>
       </div>
     </li>
     
