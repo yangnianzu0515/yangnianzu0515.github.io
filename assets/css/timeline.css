@@ -141,11 +141,11 @@
   }
   
   .direction-l .time-wrapper {
-    float: left;
+    float: below;
   }
   
   .direction-r .time-wrapper {
-    float: right;
+    float: below;
   }
   
   .time {
