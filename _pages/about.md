@@ -35,10 +35,19 @@ sdsd
     <li>
       <div class="direction-l">
         <div class="flag-wrapper">
-          <span class="flag">Msdsda</span>
-          <span class="time-wrapper"><span class="time">Summer 2015</span></span>
+          <span class="flag">test</span>
+          <span class="time-wrapper"><span class="time">Summer 2020</span></span>
         </div>
-        <div class="desc"><b>Research Intern</b> <br/> Nsdssing</div>
+        <div class="desc"><b>Research Intern</b><br/> Nsdssing</div>
+      </div>
+    </li>
+        <li>
+      <div class="direction-l">
+        <div class="flag-wrapper">
+          <span class="flag">Mtest</span>
+          <span class="time-wrapper"><span class="time">Summer 2020</span></span>
+        </div>
+        <div class="desc"><b>Research Intern</b><br/> Nsdssing</div>
       </div>
     </li>
 </ul>
