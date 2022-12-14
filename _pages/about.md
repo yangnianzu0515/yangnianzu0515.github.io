@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <h1 align="center"><b>About Me</b></h1> -->
 
 # About Me
 <p>👋 Hi, I’m Nianzu Yang! I'm a Ph.D student @SJTU-ThinkLab, supervised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a>.</p>
@@ -26,7 +25,6 @@ redirect_from:
 - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
 - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
 
-<!-- <h1 align="center"><b>Experience</b></h1> -->
 # Experience
 <p>Below is my experience timeline, mainly comprised of my education & internship experience.</p>
   <ul class="timeline">
