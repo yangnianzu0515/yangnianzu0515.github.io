@@ -18,33 +18,38 @@ I am pursuing my PhD degree at Department of Computer Science in School of Elect
 
 What's New
 ======
-<div style="height:600px;overflow-y:auto;background:#ffffff;">
+<!-- <div style="height:600px;overflow-y:auto;background:#ffffff;">
 🌟 I begin to maintain <a href="https://github.com/yangnianzu0515/awesome-molecular-docking"><b>awesome-molecular-docking</b></a> on github and welcome contributions!<br>
 🌟 Our <b>MoleOOD</b> is chosen as one of the <b>Spotlight</b> presentations on NeurIPS 2022!<br>
 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!<br>
 <!-- - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
-- 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022! -->
-</div>
-
+<!-- - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022! --></div>
+- 🌟 I begin to maintain <a href="https://github.com/yangnianzu0515/awesome-molecular-docking"><b>awesome-molecular-docking</b></a> on github and welcome contributions!
+- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
+- 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
 
 Experience
 ======
 <div>
   <ul class="timeline">
     <li>
-
       <div class="direction-l">
-      
         <div class="flag-wrapper">
           <span class="flag">SJTU-ThinkLab</span>
           <span class="time-wrapper"><span class="time">2021 - present</span></span>
         </div>
-        <div class="desc"><b>PhD</b> <br/> Computational Biology</div>
+        <div class="desc"><b>PhD Candidate</b> <br/>DrugAI</div>
       </div>
     </li>
-     -->
-
-    
+    <li>
+      <div class="direction-r">
+        <div class="flag-wrapper">
+          <span class="flag">Shanghai Jiao Tong University</span>
+          <span class="time-wrapper"><span class="time">2017 - 2021</span></span>
+        </div>
+        <div class="desc"><b>B.Sc. Student</b> <br/> Computing Science (IEEE Honor Class)</div>
+      </div>
+    </li>
   </ul>
 </div>
 
