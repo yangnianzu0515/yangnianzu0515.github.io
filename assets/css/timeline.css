@@ -141,11 +141,11 @@
   }
   
   .direction-l .time-wrapper {
-    float: below;
+    float: left;
   }
   
   .direction-r .time-wrapper {
-    float: below;
+    float: right;
   }
   
   .time {
@@ -167,7 +167,7 @@
   
   /* ================ Timeline Media Queries ================ */
   
-  @media screen and (max-width: 1000px) {
+  @media screen and (max-width: 1200px) {
     .timeline {
       width: 640px;
     }
@@ -186,7 +186,7 @@
     }
   }
   
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 1000px) {
     .timeline {
       width: 620px;
     }
@@ -205,7 +205,7 @@
     }
   }
   
-  @media screen and (max-width: 660px) {
+  @media screen and (max-width: 860px) {
   
     .timeline {
       width: 100%;
@@ -301,7 +301,7 @@
     }
   }
   
-  @media screen and (min-width: 400px ?? max-width: 660px) {
+  @media screen and (min-width: 400px ?? max-width: 860px) {
     .direction-l .desc,
     .direction-r .desc {
       margin: 1em 4em 0 4em;
