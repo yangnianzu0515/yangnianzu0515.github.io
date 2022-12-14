@@ -37,7 +37,7 @@ Experience
       <div class="direction-l">
       
         <div class="flag-wrapper">
-          <span class="flag">Shanghai Jiao Tong University</span>
+          <span class="flag">SJTU</span>
           <span class="time-wrapper"><span class="time">2021.09 – 2026.06(expected)</span></span>
         </div>
         <div class="desc"><b>PhD candidate @ThinkLab</b></div>
