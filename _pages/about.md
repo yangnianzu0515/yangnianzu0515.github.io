@@ -25,3 +25,26 @@ What's New
 <!-- - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
 - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022! -->
 </div>
+
+
+Experience
+======
+<div>
+  <ul class="timeline">
+    <li>
+
+      <div class="direction-l">
+      
+        <div class="flag-wrapper">
+          <span class="flag">SJTU-ThinkLab</span>
+          <span class="time-wrapper"><span class="time">2021 - present</span></span>
+        </div>
+        <div class="desc"><b>PhD</b> <br/> Computational Biology</div>
+      </div>
+    </li>
+     -->
+
+    
+  </ul>
+</div>
+
