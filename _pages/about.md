@@ -30,41 +30,17 @@ What's New
 
 Experience
 ======
-<ul class="timeline">
+  <ul class="timeline">
     
     <li>
       
       <div class="direction-l">
       
         <div class="flag-wrapper">
-          <span class="flag">Eric and Wendy Schmidt Center at the Broad Institute</span>
-          <span class="time-wrapper"><span class="time">2021 - present</span></span>
+          <span class="flag">Yahoo! Labs</span>
+          <span class="time-wrapper"><span class="time">Feb-Aug 2013</span></span>
         </div>
-        <div class="desc"><b>Postdoc</b> <br/> Computational Biology</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-r">
-      
-        <div class="flag-wrapper">
-          <span class="flag">MIT CSAIL</span>
-          <span class="time-wrapper"><span class="time">2016 - 2021</span></span>
-        </div>
-        <div class="desc"><b>Ph.D.</b> <br/> Advisor: Regina Barzilay, Tommi Jaakkola</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Google Brain</span>
-          <span class="time-wrapper"><span class="time">Summer 2019</span></span>
-        </div>
-        <div class="desc"><b>Research Intern</b> <br/> Deep Learning</div>
+        <div class="desc"><b>Research Scientist, Intern</b> <br/> Social Media Engagement Group</div>
       </div>
     </li>
     
@@ -74,9 +50,9 @@ Experience
       
         <div class="flag-wrapper">
           <span class="flag">Shanghai Jiao Tong University</span>
-          <span class="time-wrapper"><span class="time">2012 - 2016</span></span>
+          <span class="time-wrapper"><span class="time">2021.09 – 2026.06(expected)</span></span>
         </div>
-        <div class="desc"><b>B.Sc. Student</b> <br/> Computing Science (Zhiyuan ACM Class)</div>
+        <div class="desc"><b>PhD candidate @ThinkLab</b></div>
       </div>
     </li>
     
@@ -85,11 +61,24 @@ Experience
       <div class="direction-l">
       
         <div class="flag-wrapper">
-          <span class="flag">Microsoft Research Asia</span>
-          <span class="time-wrapper"><span class="time">Summer 2015</span></span>
+          <span class="flag">Meituan</span>
+          <span class="time-wrapper"><span class="time">2021.04 - 2021.09</span></span>
         </div>
-        <div class="desc"><b>Research Intern</b> <br/> Natural Language Processing</div>
+        <div class="desc"><b>Research Intern</b> <br/> Won <b>2020-2021 Best Research Collaboration Award</b></div>
+      </div>
+    </li>
+    
+    <li>
+      
+      <div class="direction-r">
+      
+        <div class="flag-wrapper">
+          <span class="flag">SJTU</span>
+          <span class="time-wrapper"><span class="time">2017.09 - 2021.06</span></span>
+        </div>
+        <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
       </div>
     </li>
     
   </ul>
+
