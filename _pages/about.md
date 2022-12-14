@@ -32,12 +32,8 @@ Experience
 ======
 sdsd
 <ul class="timeline">
-    
-
     <li>
-      
       <div class="direction-l">
-      
         <div class="flag-wrapper">
           <span class="flag">Msdsda</span>
           <span class="time-wrapper"><span class="time">Summer 2015</span></span>
@@ -45,5 +41,4 @@ sdsd
         <div class="desc"><b>Research Intern</b> <br/> Nsdssing</div>
       </div>
     </li>
-    
   </ul>
