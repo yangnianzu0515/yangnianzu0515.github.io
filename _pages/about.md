@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 align="center"><b>About Me</b></h1>
 
-<p>👋 Hi, I’m Nianzu Yang! I'm a Ph.D student @SJTU-ThinkLab, supervised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/).</p>
+<p>👋 Hi, I’m Nianzu Yang! I'm a Ph.D student @SJTU-ThinkLab, supervised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a>.</p>
 
 <p>I am pursuing my PhD degree at Department of Computer Science in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai. Before that, I earned bachelor degree in IEEE Honor class at SJTU. I major in Computer Science and my **research interests** include recommender systems, molecule generation and optimization, out-of-distribution generalization and graph neural networks.</p>
 
@@ -27,6 +27,7 @@ redirect_from:
 - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
 
 <h1 align="center"><b>Experience</b></h1>
+
   <ul class="timeline">
     
     <li>
