@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -33,52 +33,48 @@ Experience
   <ul class="timeline">
     
     <li>
-      
+
       <div class="direction-l">
-      
         <div class="flag-wrapper">
-          <span class="flag">Yahoo! Labs</span>
-          <span class="time-wrapper"><span class="time">Feb-Aug 2013</span></span>
+          <span class="flag">Tencent AI Lab</span>
+          <span class="time-wrapper"><span class="time">2021.11 - present</span></span>
         </div>
-        <div class="desc"><b>Research Scientist, Intern</b> <br/> Social Media Engagement Group</div>
+        <div class="desc"><b>Intern</b> <br/>DrugAI</div>
       </div>
+
     </li>
-    
+
     <li>
-      
+
       <div class="direction-r">
-      
         <div class="flag-wrapper">
           <span class="flag">Shanghai Jiao Tong University</span>
-          <span class="time-wrapper"><span class="time">2021.09 – 2026.06(expected)</span></span>
+          <span class="time-wrapper"><span class="time">2021.9 - present</span></span>
         </div>
-        <div class="desc"><b>PhD candidate @ThinkLab</b></div>
+        <div class="desc"><b>PhD Candidate</b></div>
       </div>
+
     </li>
-    
+
     <li>
-      
       <div class="direction-l">
-      
         <div class="flag-wrapper">
           <span class="flag">Meituan</span>
-          <span class="time-wrapper"><span class="time">2021.04 - 2021.09</span></span>
+          <span class="time-wrapper"><span class="time">2021.4 - 2021.9</span></span>
         </div>
-        <div class="desc"><b>Research Intern</b> <br/> Won <b>2020-2021 Best Research Collaboration Award</b></div>
+        <div class="desc"><b>Intern</b> <br/>Recommender System<br/>Won <b>2020-2021 Best Research Collaboration Award</b></div>
       </div>
     </li>
-    
+
     <li>
-      
       <div class="direction-r">
-      
         <div class="flag-wrapper">
-          <span class="flag">SJTU</span>
-          <span class="time-wrapper"><span class="time">2017.09 - 2021.06</span></span>
+          <span class="flag">Shanghai Jiao Tong University</span>
+          <span class="time-wrapper"><span class="time">2017.9 - 2021.6</span></span>
         </div>
         <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
       </div>
-    </li>
+    </li>  
     
   </ul>
 
