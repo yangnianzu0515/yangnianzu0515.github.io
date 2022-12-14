@@ -73,10 +73,10 @@ Experience
       <div class="direction-r">
       
         <div class="flag-wrapper">
-          <span class="flag">Staffordshire University</span>
-          <span class="time-wrapper"><span class="time">2007 - 2010</span></span>
+          <span class="flag">Shanghai Jiao Tong University</span>
+          <span class="time-wrapper"><span class="time">2017.9 - 2021.6</span></span>
         </div>
-        <div class="desc"><b>B.Sc. Student</b> <br/> Computing Science <br/> First Class Honours</div>
+        <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
       </div>
     </li>
     
