@@ -23,7 +23,7 @@ What's New
 🌟 Our <b>MoleOOD</b> is chosen as one of the <b>Spotlight</b> presentations on NeurIPS 2022!<br>
 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!<br>
 <!-- - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
-<!-- - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022! --></div>
+<!-- - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022! -->
 - 🌟 I begin to maintain <a href="https://github.com/yangnianzu0515/awesome-molecular-docking"><b>awesome-molecular-docking</b></a> on github and welcome contributions!
 - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
 - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
