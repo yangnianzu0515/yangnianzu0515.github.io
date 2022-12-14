@@ -32,113 +32,49 @@ Experience
 ======
   <ul class="timeline">
     
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Stanford</span>
-          <span class="time-wrapper"><span class="time">2020 - now</span></span>
-        </div>
-        <div class="desc"><b>Postdoc</b> <br/> MS&E</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-r">
-      
-        <div class="flag-wrapper">
-          <span class="flag">MIT</span>
-          <span class="time-wrapper"><span class="time">2014 - 2020</span></span>
-        </div>
-        <div class="desc"><b>Ph.D. Student</b> <br/> Media Lab, Laboratory for Social Machines</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Facebook</span>
-          <span class="time-wrapper"><span class="time">Summer 2019</span></span>
-        </div>
-        <div class="desc"><b>Research Scientist, Intern</b> <br/> Core Data Science</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">LinkedIn</span>
-          <span class="time-wrapper"><span class="time">Summer 2016</span></span>
-        </div>
-        <div class="desc"><b>Research Scientist, Intern</b> <br/> Experimentation Group</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Amazon</span>
-          <span class="time-wrapper"><span class="time">Summer 2014</span></span>
-        </div>
-        <div class="desc"><b>Machine Learning Scientist, Intern</b> <br/> Scalable Machine Learning Group</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Yahoo! Labs</span>
-          <span class="time-wrapper"><span class="time">Feb-Aug 2013</span></span>
-        </div>
-        <div class="desc"><b>Research Scientist, Intern</b> <br/> Social Media Engagement Group</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-r">
-      
-        <div class="flag-wrapper">
-          <span class="flag">EM-DMKM</span>
-          <span class="time-wrapper"><span class="time">Sep 2011 – Aug 2013</span></span>
-        </div>
-        <div class="desc"><b>M.Sc. Student</b> <br/> Masters in Data Mining and Knowledge Management <br/> Year 1: University Pierre et Marie Curie <br/> Year 2: Universitat Politecnica de Catalunya <br/></div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Jozef Stefan Institute</span>
-          <span class="time-wrapper"><span class="time">Jan-Aug 2011</span></span>
-        </div>
-        <div class="desc"><b>Research Assistant</b> <br/> Department of Knowledge Technologies</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-r">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Staffordshire University</span>
-          <span class="time-wrapper"><span class="time">2007 - 2010</span></span>
-        </div>
-        <div class="desc"><b>B.Sc. Student</b> <br/> Computing Science <br/> First Class Honours</div>
-      </div>
-    </li>
+    <li>
+
+      <div class="direction-l">
+        <div class="flag-wrapper">
+          <span class="flag">Tencent AI Lab</span>
+          <span class="time-wrapper"><span class="time">2021.11 - present</span></span>
+        </div>
+        <div class="desc"><b>Intern</b> <br/>DrugAI</div>
+      </div>
+
+    </li>
+
+    <li>
+
+      <div class="direction-r">
+        <div class="flag-wrapper">
+          <span class="flag">Shanghai Jiao Tong University</span>
+          <span class="time-wrapper"><span class="time">2021.9 - present</span></span>
+        </div>
+        <div class="desc"><b>PhD Candidate</b></div>
+      </div>
+
+    </li>
+
+    <li>
+      <div class="direction-l">
+        <div class="flag-wrapper">
+          <span class="flag">Meituan</span>
+          <span class="time-wrapper"><span class="time">2021.4 - 2021.9</span></span>
+        </div>
+        <div class="desc"><b>Intern</b> <br/>Recommender System<br/>Won <b>2020-2021 Best Research Collaboration Award</b></div>
+      </div>
+    </li>
+
+    <li>
+      <div class="direction-r">
+        <div class="flag-wrapper">
+          <span class="flag">Shanghai Jiao Tong University</span>
+          <span class="time-wrapper"><span class="time">2017.9 - 2021.6</span></span>
+        </div>
+        <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
+      </div>
+    </li>  
     
   </ul>
 
