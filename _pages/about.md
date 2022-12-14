@@ -37,7 +37,7 @@ Experience
       <div class="direction-l">
       
         <div class="flag-wrapper">
-          <span class="flag">Yahoo! Labs</span>
+          <span class="flag">Shanghai Jiao Tong University</span>
           <span class="time-wrapper"><span class="time">Feb-Aug 2013</span></span>
         </div>
         <div class="desc"><b>Research Scientist, Intern</b> <br/> Social Media Engagement Group</div>
@@ -58,18 +58,6 @@ Experience
     
     <li>
       
-      <div class="direction-l">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Meituan</span>
-          <span class="time-wrapper"><span class="time">2021.04 - 2021.09</span></span>
-        </div>
-        <div class="desc"><b>Research Intern</b> <br/> Won <b>2020-2021 Best Research Collaboration Award</b></div>
-      </div>
-    </li>
-    
-    <li>
-      
       <div class="direction-r">
       
         <div class="flag-wrapper">
@@ -77,6 +65,18 @@ Experience
           <span class="time-wrapper"><span class="time">2017.09 - 2021.06</span></span>
         </div>
         <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
+      </div>
+    </li>
+
+    <li>
+      
+      <div class="direction-l">
+      
+        <div class="flag-wrapper">
+          <span class="flag">Meituan</span>
+          <span class="time-wrapper"><span class="time">2021.04 - 2021.09</span></span>
+        </div>
+        <div class="desc"><b>Research Intern</b> <br/> Won <b>2020-2021 Best Research Collaboration Award</b></div>
       </div>
     </li>
     

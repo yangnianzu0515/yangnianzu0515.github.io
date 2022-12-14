@@ -42,14 +42,14 @@
   
   .direction-l {
     position: relative;
-    width: 370px;
+    width: 450px;
     float: left;
     text-align: right;
   }
   
   .direction-r {
     position: relative;
-    width: 370px;
+    width: 450px;
     float: right;
   }
   
