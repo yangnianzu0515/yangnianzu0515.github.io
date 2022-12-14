@@ -47,7 +47,7 @@ Experience
           <span class="flag">Shanghai Jiao Tong University</span>
           <span class="time-wrapper"><span class="time">2017 - 2021</span></span>
         </div>
-        <div class="desc"><b>B.Sc. Student</b> <br/> Computing Science (IEEE Honor Class)</div>
+        <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
       </div>
     </li>
   </ul>
