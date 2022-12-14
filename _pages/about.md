@@ -73,7 +73,7 @@ Experience
       <div class="direction-r">
       
         <div class="flag-wrapper">
-          <span class="flag">SJTU</span>
+          <span class="flag">Shanghai Jiao Tong University</span>
           <span class="time-wrapper"><span class="time">2017.09 - 2021.06</span></span>
         </div>
         <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
