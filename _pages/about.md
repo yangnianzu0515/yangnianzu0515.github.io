@@ -33,7 +33,7 @@ Experience
 
   <ul class="timeline">
     <li>
-      <div class="direction-r">
+      <div class="direction-l">
         <div class="flag-wrapper">
           <span class="flag">Tencent AI Lab</span>
           <span class="time-wrapper"><span class="time">2021.11 - present</span></span>
@@ -43,17 +43,17 @@ Experience
     </li>
 
     <li>
-      <div class="direction-l">
+      <div class="direction-r">
         <div class="flag-wrapper">
           <span class="flag">SJTU-ThinkLab</span>
-          <span class="time-wrapper"><span class="time">2021 - present</span></span>
+          <span class="time-wrapper"><span class="time">2021.9 - present</span></span>
         </div>
         <div class="desc"><b>PhD Candidate</b></div>
       </div>
     </li>
 
     <li>
-      <div class="direction-r">
+      <div class="direction-l">
         <div class="flag-wrapper">
           <span class="flag">Meituan</span>
           <span class="time-wrapper"><span class="time">2021.4 - 2021.9</span></span>
@@ -63,10 +63,10 @@ Experience
     </li>
 
     <li>
-      <div class="direction-l">
+      <div class="direction-r">
         <div class="flag-wrapper">
           <span class="flag">Shanghai Jiao Tong University</span>
-          <span class="time-wrapper"><span class="time">2017 - 2021</span></span>
+          <span class="time-wrapper"><span class="time">2017.9 - 2021.6</span></span>
         </div>
         <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
       </div>
