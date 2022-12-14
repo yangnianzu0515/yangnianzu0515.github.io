@@ -30,7 +30,7 @@ What's New
 
 Experience
 ======
-<ul class="timeline">
+  <ul class="timeline">
     
     <li>
       
@@ -141,4 +141,6 @@ Experience
     </li>
     
   </ul>
+</div>
+
 
