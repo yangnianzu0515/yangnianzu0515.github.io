@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 <h1 align="center"><b>About Me</b></h1>
-👋 Hi, I’m Nianzu Yang!
+<p>👋 Hi, I’m Nianzu Yang! I'm a Ph.D student @SJTU-ThinkLab, supervised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/).</p>
 
-I'm a Ph.D student @SJTU-ThinkLab, supervised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/).
-
-I am pursuing my PhD degree at Department of Computer Science in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai. Before that, I earned bachelor degree in IEEE Honor class at SJTU. I major in Computer Science and my **research interests** include recommender systems, molecule generation and optimization, out-of-distribution generalization and graph neural networks.
+<p>I am pursuing my PhD degree at Department of Computer Science in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai. Before that, I earned bachelor degree in IEEE Honor class at SJTU. I major in Computer Science and my **research interests** include recommender systems, molecule generation and optimization, out-of-distribution generalization and graph neural networks.</p>
 
 <h1 align="center"><b>What's New</b></h1>
 <!-- <div style="height:600px;overflow-y:auto;background:#ffffff;">
