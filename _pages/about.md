@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -61,10 +61,10 @@ Experience
       <div class="direction-l">
       
         <div class="flag-wrapper">
-          <span class="flag">Jozef Stefan Institute</span>
-          <span class="time-wrapper"><span class="time">Jan-Aug 2011</span></span>
+          <span class="flag">Meituan</span>
+          <span class="time-wrapper"><span class="time">2021.04 - 2021.09</span></span>
         </div>
-        <div class="desc"><b>Research Assistant</b> <br/> Department of Knowledge Technologies</div>
+        <div class="desc"><b>Research Intern</b> <br/> Won <b>2020-2021 Best Research Collaboration Award</b></div>
       </div>
     </li>
     
@@ -74,7 +74,7 @@ Experience
       
         <div class="flag-wrapper">
           <span class="flag">Shanghai Jiao Tong University</span>
-          <span class="time-wrapper"><span class="time">2017.9 - 2021.6</span></span>
+          <span class="time-wrapper"><span class="time">2017.09 - 2021.06</span></span>
         </div>
         <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
       </div>
