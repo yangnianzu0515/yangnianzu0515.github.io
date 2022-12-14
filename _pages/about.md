@@ -1,22 +1,23 @@
 ---
 permalink: /
 title: 
-excerpt: 
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+👋 Hi, I’m Nianzu Yang!
+
+I'm a Ph.D student @SJTU-ThinkLab, supervised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/).
 
 
-👋 Hi, I’m Nianzu, a Ph.D student @SJTU-ThinkLab, supervised by [**Prof. Junchi Yan**](https://thinklab.sjtu.edu.cn/).
-
-About Me
-=====
+About me
+======
 I am pursuing my PhD degree at Department of Computer Science in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai. Before that, I earned bachelor degree in IEEE Honor class at SJTU. I major in Computer Science and my **research interests** include recommender systems, molecule generation and optimization, out-of-distribution generalization and graph neural networks.
 
 What's New
-=====
+======
 <!-- <div style="height:600px;overflow-y:auto;background:#ffffff;">
 🌟 I begin to maintain <a href="https://github.com/yangnianzu0515/awesome-molecular-docking"><b>awesome-molecular-docking</b></a> on github and welcome contributions!<br>
 🌟 Our <b>MoleOOD</b> is chosen as one of the <b>Spotlight</b> presentations on NeurIPS 2022!<br>
@@ -28,8 +29,7 @@ What's New
 - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
 
 Experience
-=====
-Below is my experience timeline, mainly comprised of my education & internship experience.
+======
   <ul class="timeline">
     
     <li>
@@ -37,7 +37,7 @@ Below is my experience timeline, mainly comprised of my education & internship e
       <div class="direction-l">
       
         <div class="flag-wrapper">
-          <span class="flag">SJTU</span>
+          <span class="flag">Shanghai Jiao Tong University</span>
           <span class="time-wrapper"><span class="time">2021.09 – 2026.06(expected)</span></span>
         </div>
         <div class="desc"><b>PhD candidate @ThinkLab</b></div>
@@ -81,3 +81,4 @@ Below is my experience timeline, mainly comprised of my education & internship e
     </li>
     
   </ul>
+
