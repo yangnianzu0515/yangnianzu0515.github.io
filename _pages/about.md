@@ -33,14 +33,25 @@ Experience
 
   <ul class="timeline">
     <li>
+      <div class="direction-r">
+        <div class="flag-wrapper">
+          <span class="flag">Tencent AI Lab</span>
+          <span class="time-wrapper"><span class="time">2021.11 - present</span></span>
+        </div>
+        <div class="desc"><b>Intern</b> <br/>DrugAI</div>
+      </div>
+    </li>
+
+    <li>
       <div class="direction-l">
         <div class="flag-wrapper">
           <span class="flag">SJTU-ThinkLab</span>
           <span class="time-wrapper"><span class="time">2021 - present</span></span>
         </div>
-        <div class="desc"><b>PhD Candidate</b> <br/>DrugAI</div>
+        <div class="desc"><b>PhD Candidate</b></div>
       </div>
     </li>
+
     <li>
       <div class="direction-r">
         <div class="flag-wrapper">
@@ -50,6 +61,7 @@ Experience
         <div class="desc"><b>Intern</b> <br/>Recommender System<br/>Honored with <b>2020-2021 Best Research Collaboration Award</b></div>
       </div>
     </li>
+
     <li>
       <div class="direction-l">
         <div class="flag-wrapper">
