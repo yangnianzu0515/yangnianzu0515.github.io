@@ -30,10 +30,12 @@ What's New
 
 Experience
 ======
-<div>
+
   <ul class="timeline">
     <li>
+
       <div class="direction-l">
+
         <div class="flag-wrapper">
           <span class="flag">SJTU-ThinkLab</span>
           <span class="time-wrapper"><span class="time">2021 - present</span></span>
@@ -41,8 +43,11 @@ Experience
         <div class="desc"><b>PhD Candidate</b> <br/>DrugAI</div>
       </div>
     </li>
+
     <li>
+
       <div class="direction-r">
+
         <div class="flag-wrapper">
           <span class="flag">Shanghai Jiao Tong University</span>
           <span class="time-wrapper"><span class="time">2017 - 2021</span></span>
@@ -50,6 +55,7 @@ Experience
         <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
       </div>
     </li>
+  
   </ul>
-</div>
+
 
