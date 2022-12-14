@@ -38,18 +38,6 @@ Experience
       
         <div class="flag-wrapper">
           <span class="flag">Shanghai Jiao Tong University</span>
-          <span class="time-wrapper"><span class="time">Feb-Aug 2013</span></span>
-        </div>
-        <div class="desc"><b>Research Scientist, Intern</b> <br/> Social Media Engagement Group</div>
-      </div>
-    </li>
-    
-    <li>
-      
-      <div class="direction-r">
-      
-        <div class="flag-wrapper">
-          <span class="flag">Shanghai Jiao Tong University</span>
           <span class="time-wrapper"><span class="time">2021.09 – 2026.06(expected)</span></span>
         </div>
         <div class="desc"><b>PhD candidate @ThinkLab</b></div>
@@ -61,7 +49,19 @@ Experience
       <div class="direction-r">
       
         <div class="flag-wrapper">
-          <span class="flag">Shanghai Jiao Tong University</span>
+          <span class="flag">Tencent AI Lab</span>
+          <span class="time-wrapper"><span class="time">2022.09 – present</span></span>
+        </div>
+        <div class="desc"><b>Research Intern</b></div>
+      </div>
+    </li>
+    
+    <li>
+      
+      <div class="direction-l">
+      
+        <div class="flag-wrapper">
+          <span class="flag">SJTU</span>
           <span class="time-wrapper"><span class="time">2017.09 - 2021.06</span></span>
         </div>
         <div class="desc"><b>B.Sc. Student</b> <br/> Computer Science (IEEE Honor Class)</div>
@@ -70,7 +70,7 @@ Experience
 
     <li>
       
-      <div class="direction-l">
+      <div class="direction-r">
       
         <div class="flag-wrapper">
           <span class="flag">Meituan</span>
