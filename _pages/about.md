@@ -27,7 +27,7 @@ redirect_from:
 - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
 
 <h1 align="center"><b>Experience</b></h1>
-<div>
+<p>
   <ul class="timeline">
     
     <li>
@@ -79,4 +79,4 @@ redirect_from:
     </li>
     
   </ul>
-</div>
+</p>
