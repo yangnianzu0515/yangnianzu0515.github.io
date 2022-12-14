@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 
-# About Me
-<p>👋 Hi, I’m Nianzu Yang! I'm a Ph.D student @SJTU-ThinkLab, supervised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a>.</p>
+About Me
+=====
+👋 Hi, I’m Nianzu, a Ph.D student @SJTU-ThinkLab, supervised by [**Prof. Junchi Yan**](https://thinklab.sjtu.edu.cn/).
 
-<p>I am pursuing my PhD degree at Department of Computer Science in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai. Before that, I earned bachelor degree in IEEE Honor class at SJTU. I major in Computer Science and my <b>research interests</b> include recommender systems, molecule generation and optimization, out-of-distribution generalization and graph neural networks.</p>
+I am pursuing my PhD degree at Department of Computer Science in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai. Before that, I earned bachelor degree in IEEE Honor class at SJTU. I major in Computer Science and my **research interests** include recommender systems, molecule generation and optimization, out-of-distribution generalization and graph neural networks.
 
-# What's New
+What's New
+=====
 <!-- <div style="height:600px;overflow-y:auto;background:#ffffff;">
 🌟 I begin to maintain <a href="https://github.com/yangnianzu0515/awesome-molecular-docking"><b>awesome-molecular-docking</b></a> on github and welcome contributions!<br>
 🌟 Our <b>MoleOOD</b> is chosen as one of the <b>Spotlight</b> presentations on NeurIPS 2022!<br>
@@ -25,8 +27,9 @@ redirect_from:
 - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
 - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
 
-# Experience
-<p>Below is my experience timeline, mainly comprised of my education & internship experience.</p>
+Experience
+=====
+Below is my experience timeline, mainly comprised of my education & internship experience.
   <ul class="timeline">
     
     <li>
