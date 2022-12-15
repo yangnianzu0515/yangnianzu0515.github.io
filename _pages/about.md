@@ -47,7 +47,7 @@ My principle **research interests** lie in recommender systems, drug discovery, 
       <div class="direction-r">
         <div class="flag-wrapper">
           <span class="flag">Tencent AI Lab</span>
-          <span class="time-wrapper"><span class="time">2022.09 - present</span></span>
+          <span class="time-wrapper"><span class="time">2022.11 - present</span></span>
         </div>
           <div class="desc"><b>Intern</b> <br/>DrugAI</div>
       </div>
