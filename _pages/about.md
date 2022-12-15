@@ -14,7 +14,9 @@ redirect_from:
 
 <!-- About me -->
 <!-- ====== -->
-I am pursuing my PhD degree at Department of Computer Science in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai. Before that, I earned bachelor degree in IEEE Honor class at SJTU. I major in Computer Science and my **research interests** include recommender systems, molecule generation and optimization, out-of-distribution generalization and graph neural networks.
+I am pursuing my PhD degree at Department of Computer Science in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai. Before that, I earned bachelor degree in IEEE Honor class at SJTU, majoring in Computer Science. 
+
+My principle **research interests** lie in recommender systems, molecule generation and optimization, out-of-distribution generalization and graph neural networks.
 
 <h1 align="center"><b>What's new</b></h1>
 <!-- What's New -->
