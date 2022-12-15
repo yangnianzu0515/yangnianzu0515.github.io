@@ -36,7 +36,7 @@ My principle **research interests** lie in recommender systems, drug discovery, 
 sdsd
 <ul class="timeline">
     <li>
-      <div class="direction-r">
+      <div class="direction-l">
         <div class="flag-wrapper">
           <span class="flag">SJTU</span>
           <span class="time-wrapper"><span class="time">2021.09 - 2026.06(expected)</span></span>
@@ -45,7 +45,7 @@ sdsd
       </div>
     </li>
     <li>
-      <div class="direction-l">
+      <div class="direction-r">
         <div class="flag-wrapper">
           <span class="flag">Tencent AI Lab</span>
           <span class="time-wrapper"><span class="time">2022.09 - present</span></span>
@@ -54,7 +54,7 @@ sdsd
       </div>
     </li>
     <li>
-      <div class="direction-l">
+      <div class="direction-r">
         <div class="flag-wrapper">
           <span class="flag">Meituan</span>
           <span class="time-wrapper"><span class="time">2021.04 - 2021.09</span></span>
