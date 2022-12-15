@@ -33,7 +33,6 @@ My principle **research interests** lie in recommender systems, drug discovery, 
 
 <h1 align="center"><b>Experience</b></h1>
 <!-- ====== -->
-sdsd
 <ul class="timeline">
     <li>
       <div class="direction-l">
