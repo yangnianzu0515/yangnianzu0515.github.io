@@ -18,6 +18,8 @@ I am pursuing my PhD degree at Department of Computer Science in School of Elect
 
 My principle **research interests** lie in recommender systems, drug discovery, out-of-distribution generalization and graph neural networks.
 
+I'm always open for collaboration opportunities and please feel free to contact me via email: [yangnianzu@sjtu.edu.cn](mailto:yangnianzu@sjtu.edu.cn) or my WeChat: 18616581118.
+
 <h1 align="center"><b>What's new</b></h1>
 <!-- What's New -->
 <!-- ====== -->
