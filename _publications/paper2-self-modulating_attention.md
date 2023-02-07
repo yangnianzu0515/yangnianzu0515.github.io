@@ -12,6 +12,8 @@ citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journa
 poster: "http://yangnianzu0515.github.io/poster/paper2-poster-self-modulating_attention.pdf"
 slides: "http://yangnianzu0515.github.io/slides/paper2-slides-self-modulating_attention.pdf"
 code: "https://github.com/cchao0116/SMACTREC-ICML21"
+blod:
+chinese_blog: 
 ---
 Authors: Chao Chen, Haoyu Geng, **Nianzu Yang**, Junchi Yan, Daiyue Xue, Jianping Yu, Xiaokang Yang
 

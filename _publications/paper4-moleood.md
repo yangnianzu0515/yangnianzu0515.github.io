@@ -12,6 +12,8 @@ citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journa
 poster: "http://yangnianzu0515.github.io/poster/paper4-poster-moleood.pdf"
 slides: "http://yangnianzu0515.github.io/slides/paper4-slides-moleood.pdf"
 code: "https://github.com/yangnianzu0515/MoleOOD"
+blod:
+chinese_blog: "https://zhuanlan.zhihu.com/p/594089868"
 ---
 Authors: **Nianzu Yang**, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, Junchi Yan
 
@@ -23,3 +25,4 @@ We have proposed a general framework entitled **MoleOOD** which can incorporate 
 [[Poster]](http://yangnianzu0515.github.io/poster/paper4-poster-moleood.pdf)
 [[Slides]](http://yangnianzu0515.github.io/slides/paper4-slides-moleood.pdf)
 [[Code]](https://github.com/yangnianzu0515/MoleOOD)
+[[Blog in Chinese]](https://zhuanlan.zhihu.com/p/594089868)

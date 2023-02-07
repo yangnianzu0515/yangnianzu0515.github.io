@@ -12,6 +12,8 @@ citation: # 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journa
 poster: 
 slides: 
 code: 
+blod:
+chinese_blog: 
 ---
 Authors: **Nianzu Yang\***, Huaijin Wu*, Junchi Yan, Xiaoyong Pan, Ye Yuan, Le Song
 
