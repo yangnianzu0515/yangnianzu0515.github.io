@@ -29,6 +29,7 @@ I'm always open for collaboration opportunities and please feel free to contact 
 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!<br>
 <!-- - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
 <!-- - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022! --> 
+- 🌟 We write a <a href="https://zhuanlan.zhihu.com/p/594089868">blog in Chinese</a> to introduce the proposed **MoleOOD**.
 - 🌟 I begin to maintain <a href="https://github.com/yangnianzu0515/awesome-molecular-docking"><b>awesome-molecular-docking</b></a> and welcome contributions!
 - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
 - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!
