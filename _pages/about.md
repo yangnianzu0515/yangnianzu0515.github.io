@@ -23,9 +23,11 @@ I'm always open for collaboration opportunities and please feel free to contact 
 <h1 align="center"><b>What's new</b></h1>
 <!-- What's New -->
 <!-- ====== -->
-<div style="height:600px;overflow-y:auto;background:#ffffff;">
+<div style="width:600px;height:200px;overflow-x:auto;overflow-y:auto;background:#ffffff;">
+🌟 One paper on combinatorial drug recommendation is accepted by **The Web Conference** (a.k.a. **WWW**) 2023!
+🌟 We write a <a href="https://zhuanlan.zhihu.com/p/594089868">blog in Chinese</a> to introduce the proposed **MoleOOD**.
 🌟 I begin to maintain <a href="https://github.com/yangnianzu0515/awesome-molecular-docking"><b>awesome-molecular-docking</b></a> on github and welcome contributions!<br>
-🌟 Our <b>MoleOOD</b> is chosen as one of the <b>Spotlight</b> presentations on NeurIPS 2022!<br>
+🌟 Our <b>MoleOOD</b> is chosen as one of the <b>Spotlight</b> presentations **on NeurIPS** 2022!<br>
 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!<br>
 </div>
 <!-- - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
