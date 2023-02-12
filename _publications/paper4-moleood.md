@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper4-moleood
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2009-10-01
-venue: 'NeurIPS 2022'
+venue: 'NeurIPS 2022 (Spotlight)'
 preprint:
 authors: '<b>Nianzu Yang</b>, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, Junchi Yan'
 paperurl: 'http://yangnianzu0515.github.io/files/paper4-moleood.pdf'
