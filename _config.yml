@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nianzu Yang's Website"
+title                    : "Nianzu Yang (杨念祖) | Homepage"
 title_separator          : "-"
 name                     : &name "Nianzu Yang"
 description              : &description "personal description"
