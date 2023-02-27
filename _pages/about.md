@@ -10,7 +10,7 @@ redirect_from:
 
 
 <h1 align="center"><b>About Me</b></h1>
-👋 Hi, I’m Nianzu, a Ph.D student @SJTU-ThinkLab, supervised by [**Prof. Junchi Yan**](https://thinklab.sjtu.edu.cn/).
+👋 Hi, I’m Nianzu, a Ph.D student @SJTU-ThinkLab, supervised by [**Prof. Junchi Yan**](https://thinklab.sjtu.edu.cn/), **a definitely wonderful advisor!!!!**
 
 <!-- About me -->
 <!-- ====== -->
