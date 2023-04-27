@@ -81,5 +81,9 @@ Service and leadership
 
 Academic Service
 ======
-**Journal**:
+**Journal refereeing:**
 IEEE Access
+
+
+**Conference refereeing:**
+NeurIPS 2023
