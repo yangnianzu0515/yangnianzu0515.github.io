@@ -82,7 +82,7 @@ Service and leadership
 Academic Service
 ======
 **Journal refereeing:**
-IEEE Access
+IEEE Access, TNNLS
 
 
 **Conference refereeing:**
