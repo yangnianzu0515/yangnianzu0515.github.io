@@ -15,7 +15,7 @@ Education
 * Ph.D in Computer Science & Technology, Shanghai Jiao Tong University, 2021-2026 (expected)
 
 
-Research Interests
+Research Interest
 ======
 * Generative Models
 * Out-of-Distribution Generalization
@@ -78,6 +78,14 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
+
+Award
+======
+SJTU Merit Student 2023
+SJTU Academic Scholarship
+
+
 
 Academic Service
 ======
