@@ -82,10 +82,8 @@ Service and leadership
 
 Award
 ======
-* SJTU Merit Student 2023
-* SJTU Academic Scholarship 2018
-
-
+* SJTU Merit Student, 2023
+* SJTU Academic Scholarship, 2018
 
 
 Academic Service
