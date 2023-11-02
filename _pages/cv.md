@@ -82,6 +82,7 @@ Service and leadership
 
 Award
 ======
+* Huatai Securities Science & Technology Scholarship, 2023
 * SJTU Merit Student, 2023
 * SJTU Academic Scholarship, 2018
 
