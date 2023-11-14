@@ -90,7 +90,7 @@ Award
 Academic Service
 ======
 **Journal refereeing:**
-IEEE Access, TNNLS
+IEEE Access, TNNLS, Neural Networks
 
 
 **Conference refereeing:**
