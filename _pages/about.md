@@ -23,7 +23,7 @@ I'm always open for collaboration opportunities and please feel free to contact 
 <h1 align="center"><b>What's new</b></h1>
 <!-- What's New -->
 <!-- ====== -->
-<div style="width:600px;overflow-x:auto;height:600px;overflow-y:auto;background:#ffffff;">
+<div style="width:1500px;overflow-x:auto;height:600px;overflow-y:auto;background:#ffffff;">
 🌟 I begin to maintain <a href="https://github.com/yangnianzu0515/awesome-molecular-docking"><b>awesome-molecular-docking</b></a> on github and welcome contributions!<br>
 🌟 Our <b>MoleOOD</b> is chosen as one of the <b>Spotlight</b> presentations on NeurIPS 2022!<br>
 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!<br>
