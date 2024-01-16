@@ -94,4 +94,9 @@ IEEE Access, TNNLS, Neural Networks
 
 
 **Conference refereeing:**
-NeurIPS 2023, LOG 2023, ICLR 2024, GenBio@NeurIPS2023
+- NeurIPS 2023
+- ICML 2024
+- ICLR 2024 
+- LOG 2023
+- IJCAI 2024
+- GenBio@NeurIPS2023

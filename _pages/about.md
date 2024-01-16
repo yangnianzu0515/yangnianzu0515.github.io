@@ -29,12 +29,13 @@ I'm always open for collaboration opportunities and please feel free to contact 
 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!<br>
 <!-- - 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on NeurIPS 2022!
 <!-- - 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022! --> 
+- 🌟 Two paper with **one spotlight** are accepted by **ICLR 2024**! Congrats to Yehui, Huaijin and Wei!
 - 🌟 Our **EasyDGL** preprint is available on <a href='https://arxiv.org/abs/2303.12341'>arXiv</a> and <a href='https://github.com/cchao0116/EasyDGL'>code</a> is also available!
-- 🌟 One paper on combinatorial drug recommendation is accepted by **WWW** 2023!
+- 🌟 One paper on combinatorial drug recommendation is accepted by **WWW 2023**!
 - 🌟 We write a <a href="https://zhuanlan.zhihu.com/p/594089868">blog in Chinese</a> to facilitate understanding the proposed **MoleOOD**!
 - 🌟 I begin to maintain <a href="https://github.com/yangnianzu0515/awesome-molecular-docking"><b>awesome-molecular-docking</b></a> and welcome contributions!
-- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on **NeurIPS** 2022!
-- 🌟 One paper on molecular representation learning is accepted by **NeurIPS** 2022!
+- 🌟 Our **MoleOOD** is chosen as one of the **Spotlight** presentations on **NeurIPS 2022**!
+- 🌟 One paper on molecular representation learning is accepted by **NeurIPS 2022**!
 
 <h1 align="center"><b>Experience</b></h1>
 <!-- ====== -->
