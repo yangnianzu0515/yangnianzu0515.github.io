@@ -28,6 +28,7 @@ I'm always open for collaboration opportunities and please feel free to contact 
 🌟 Our <b>MoleOOD</b> is chosen as one of the <b>Spotlight</b> presentations on NeurIPS 2022!<br>
 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!<br>
 </div> -->
+- 🌟 My roommate's **node2ket** is accepted by **ICLR2024**! Congrats to Xiong Hao!
 - 🌟 2 papers with 1 **spotlight** are accepted by **ICLR2024**! Congrats to Yehui, Huaijin & Wei!
 - 🌟 Our **EasyDGL** preprint is available on <a href='https://arxiv.org/abs/2303.12341'>arXiv</a> and <a href='https://github.com/cchao0116/EasyDGL'>code</a> is also available!
 - 🌟 One paper on combinatorial drug recommendation is accepted by **WWW2023**!
