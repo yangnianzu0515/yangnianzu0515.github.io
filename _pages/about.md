@@ -28,6 +28,8 @@ I'm always open for collaboration opportunities and please feel free to contact 
 🌟 Our <b>MoleOOD</b> is chosen as one of the <b>Spotlight</b> presentations on NeurIPS 2022!<br>
 🌟 One paper on molecular representation learning is accepted by NeurIPS 2022!<br>
 </div> -->
+- 🌟 Our **EasyDGL** is accepted by **TPAMI**!
+- 🌟 Our **MorphGrower** is chosen as an Oral presentation on **ICML2024**!
 - 🌟 2 papers are accepted by **ICML2024**! Congrats to Yehui!
 - 🌟 My roommate's **node2ket** is accepted by **ICLR2024**! Congrats to Hao Xiong!
 - 🌟 2 papers with 1 **spotlight** are accepted by **ICLR2024**! Congrats to Yehui, Huaijin & Wei!
