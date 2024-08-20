@@ -13,6 +13,7 @@ redirect_from:
 👋 Hi, I’m Nianzu, a Ph.D student @SJTU-ThinkLab, supervised by [**Prof. Junchi Yan**](https://thinklab.sjtu.edu.cn/).
 <!-- About me -->
 <!-- ====== -->
+
 I am pursuing my PhD degree at Department of Computer Science in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai. Before that, I earned bachelor degree in IEEE Honor class at SJTU, majoring in Computer Science. 
 
 My principle **research interests** lie in recommender systems, drug discovery, out-of-distribution generalization and graph neural networks.
